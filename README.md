@@ -6,7 +6,7 @@ Let us know if you have tried any of the solutions presented, we'd love to hear 
 ## Resources
 
 1. Flood mapping
- - decision matrix for flood mapping (PPT)
+ - guidance for choosing the appropriate methodology to map flood extent
  - GEE scripts for flood mapping and damage assessment using S1 radar data and S2 optical data
  - COLAB script for cloud masking and flood mapping using S2 optical data
  
@@ -21,12 +21,12 @@ Let us know if you have tried any of the solutions presented, we'd love to hear 
 
 ## Get started
 
-- [Satellite Imagery Guide] (Katie's guide book -to include)
+- [Satellite Imagery Guide] (-to include)
    >
 
-- [Google Earth Engine] (https://earthengine.google.com)
+- [Google Earth Engine](https://earthengine.google.com)
     >
 
-- [COLAB] (https://colab.research.google.com/notebooks/intro.ipynb)
+- [COLAB](https://colab.research.google.com/notebooks/intro.ipynb)
     > 
 
