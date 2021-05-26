@@ -4,6 +4,9 @@
   ===========================================================================================
   
   This script creates a flood map using Sentinel-2 satellite images.
+  This images are cloudmasked using a simple algorithm using quality information on the Sentinel-2 metadata.
+  However, this cloud mask method is limited as cloud shadows are not masked and cloud information may not be very precise.
+  An enhanced method is employed using COLAB.
   
 * For deriving the flood map using Sentinel-2, we use the MNDWI index [Rokni et al (2014) https://doi:10.3390/rs6054173] 
   MNDWI is a modified water index using the statistics of SWIR and GREEN bands. We have tuned that threshold for the specific case of South Sudan.
