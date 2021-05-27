@@ -5,12 +5,12 @@ Let us know if you have tried any of the solutions presented, we'd love to hear 
 
 ## Study cases - idenfitication of damage on urban infrastructure using Interferometric coherence
 
-1. Explosion in Bata, Equatorial Guinea (03.07.2021) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelgadoblasco/GOST_SAR/blob/master/Coherence%20Change%20Detection/WB_Bata_HandsOn_session.ipynb)
-2. Flash Flood India - Tapovan Dam area (02.07.2021) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelgadoblasco/GOST_SAR/blob/master/Coherence%20Change%20Detection/WB_Tapovan_CCD.ipynb)
-3. Explosion in Beirut, Lebanon (08.04.2020) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelgadoblasco/GOST_SAR/blob/master/Coherence%20Change%20Detection/WB_Beirut_HandsOn_session.ipynb)
+1. Explosion in Bata, Equatorial Guinea (03.07.2021) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelgadoblasco/GOST_SAR/blob/master/Coherence%20Change%20Detection/WB_Bata_HandOn_session.ipynb)
+2. Explosion in Beirut, Lebanon (08.04.2020) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelgadoblasco/GOST_SAR/blob/master/Coherence%20Change%20Detection/WB_Beirut_HandsOn_session.ipynb)
 
 ## Requirements
 - Google account
+- Copernicus Open Data Hub or Alaska Satellite Facilities account
 - Basic knowledge in (In)SAR data processing
 
 ## Learning material 
