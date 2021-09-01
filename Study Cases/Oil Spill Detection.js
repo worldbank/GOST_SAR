@@ -23,9 +23,9 @@
    /* 1) Use a user defined geometry. Use this option if you want to run your own use case
       ***  For running the pre-defined test cases, go directly to line 70 ***
     Uncomment the two lines below if you want to use a defined geometry as AoI */
-  var aoi = ee.FeatureCollection(geometry);
+  var aoi = ee.FeatureCollection(geometry7);
   Map.centerObject(aoi,7);
-  var smallaoi=geometry2; // Small area defined for statistics computation
+  var smallaoi=geometry8; // Small area defined for statistics computation
   
   /* 2) Load a shapefile from Assets collection.
   Uncomment and modify the lines below if you want to use a shapefile stored in your assets
@@ -46,8 +46,8 @@
   var ref_start='2018-01-01'
   var ref_end='2019-10-01'
 // Now set the same parameters for AFTER the crisis event in YYYY-MM-DD format.
-  var crisis_start='2019-10-13'
-  var crisis_end='2019-10-14'
+  var crisis_start='2021-08-20'
+  var crisis_end='2021-08-31'
 
 
 /********************************************************************************************
@@ -60,15 +60,16 @@ var pass_direction = "DESCENDING"; /* or 'ASCENDING'when images are being compar
                            collection is empty. In some areas more Ascending images exist than 
                            than descending or the other way around.*/
 
-var relative_orbit=50; // Relative Orbit covering the incident
+var relative_orbit=14; // Relative Orbit covering the incident; please determine this for each image
+                       // instruction here: https://github.com/worldbank/GOST_SAR/blob/master/Flood%20Analysis%20and%20Mapping/RelativeOrbitSelection.pptx
 
 var factor=2 // Set multiplicative value of the stdDev to identify oil spill as anomaly
  
 ///////////////////////////////////////////////////////
 // USE CASE DEMONSTRATOR SELECTION      
-// Default k=4 means that the user input parameters will be used for the analysis
-var k=4  // [0:RedSea ;1:Kuwait; 2:Corsica]
-var usecase=['RedSea','Kuwait','Corsica']              
+// Default k=3 means that the user input parameters will be used for the analysis
+var k=3  // [0:RedSea ;1:Kuwait; 2:Corsica; 3:Custom]
+var usecase=['RedSea','Kuwait','Corsica','Custom']              
 print(usecase[k])
 ////////////////////////////////////////////////////////
 
@@ -103,6 +104,17 @@ switch (usecase[k]) {
     smallaoi=geometry6;
     pass_direction = "ASCENDING"
     relative_orbit=15;
+    break;
+  case 'Custom':
+    ref_start=ref_start;
+    ref_end=ref_end;
+    crisis_start = crisis_start;
+    crisis_end=crisis_end;
+    factor=factor;
+    aoi=aoi;
+    smallaoi=smallaoi;
+    pass_direction = pass_direction;
+    relative_orbit=relative_orbit;
     break;
   default:
     print('Default')
