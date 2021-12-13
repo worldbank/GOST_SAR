@@ -1,4 +1,4 @@
-<p><center> <img src="../images/GOST_Logo_2021.png" width="1000"/> </p></center>
+<p><center> <img src="../images/GOST_Logo_2021.png" width="700"/> </p></center>
 
 # Coherence Change Detection using Google Colab
 <p><center> <img src="../images/example_CCD.png" width="1000"/> </p></center>
