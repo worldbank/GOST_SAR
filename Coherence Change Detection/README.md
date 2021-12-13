@@ -1,6 +1,7 @@
 <p><center> <img src="../images/GOST_Logo_2021.png" width="700"/> </p></center>
 
 # Coherence Change Detection using Google Colab
+An ilustrative example of this application is the analysis of the Beirut area affected by the blast occured in its harbor area last 4th August 2019. In red colour the area affected by a significant drop of the coherence values before and after the explosion event.
 <p><center> <img src="../images/example_CCD.png" width="1000"/> </p></center>
 
 ***
