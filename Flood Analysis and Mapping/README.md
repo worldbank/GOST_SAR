@@ -1,4 +1,4 @@
-<p><center> <img src="../../images/GOST_Logo_2021.png" width="700"/> </p></center>
+<p><center> <img src="../images/GOST_Logo_2021.png" width="700"/> </p></center>
 
 # Flood Analysis and Mapping using Google Earth Engine
 
