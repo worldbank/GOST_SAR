@@ -1,3 +1,5 @@
+<p><center> <img src="../images/GOST_Logo_2021.png" width="1000"/> </p></center>
+
 # Coherence Change Detection using Google Colab
 
 This repository contains resources and examples to help you leverage SAR data for various mapping applications, using Google Colaboratory environment. 
