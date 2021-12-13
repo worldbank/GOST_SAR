@@ -27,9 +27,13 @@ Let us know if you have tried any of the solutions presented, we'd love to hear 
 - [Satellite Imagery Guide] (Katie's guide book -to include)
    >
 
-- [Google Earth Engine] (https://earthengine.google.com)
+- [Google Earth Engine](https://earthengine.google.com)
     >
 
-- [COLAB](https://colab.research.google.com/notebooks/intro.ipynb)
+- [Google COLAB](https://colab.research.google.com/notebooks/intro.ipynb)
     > 
 
+## Disclaimer
+The scripts here provided produce results which geographic information has limitations due to the scale, resolution, date and interpretation of the original source materials. No liability concerning the content or the use thereof is assumed by the producer.
+
+The Geospatial Operations Support Team, The World Bank.
