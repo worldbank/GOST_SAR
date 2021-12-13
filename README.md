@@ -1,4 +1,6 @@
-# GOST_SAR_applications
+<p><center> <img src="images/GOST_Logo_2021.png" width="700"/> </p></center>
+
+# SAR applications
 
 This repository contains resources and examples to help you leverage SAR data (and optical data) for various mapping applications, in Google Earth Engine and COLAB. 
 Let us know if you have tried any of the solutions presented, we'd love to hear about your use cases!
@@ -12,7 +14,7 @@ Let us know if you have tried any of the solutions presented, we'd love to hear 
  - GEE script using S1 and S2 data
  
 2. Coherence change detection
- - COLAB script using S1 data
+ - COLAB scripts using S1 data
 
 ## Examples - study cases
 
