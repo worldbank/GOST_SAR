@@ -19,12 +19,13 @@ b) damage assessment analysis included in each script, which intersects the floo
 
 Some of the scripts developed are used for:
 - Flood mapping using Sentinel-1 time series anomaly detection
-- FloodMapping using Sentinel-2 and Modified Normalized Difference Water Index (MNDWI)
-- FloodMapping using cloud mask Sentinel-2 and MNDWI [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelgadoblasco/GOST_SAR/blob/master/Flood%20Analysis%20and%20Mapping/FloodMapping_MNDWI_S2_cloudmask_COLAB.ipynb)
-- FloodMapping using Sentinel-1 Normalized Difference Flood Index (NDFI) and Normalised Difference Flood over short Vegetation Index (NDFVI) ([Cian,F. et al. 2018](https://doi.org/10.1016/j.rse.2018.03.006))
-- FloodMapping using Sentinel-1 and the NDFI ([Cian,F. et al. 2018](https://doi.org/10.1016/j.rse.2018.03.006))
-- FloodMapping using Sentinel-1 and Sentinel-2 data fusion from previous approaches
-- FloodMapping using land cover classification using Support Vector Machines and Sentinel-2 data
+- Flood mapping using Sentinel-2 and Modified Normalized Difference Water Index (MNDWI)
+- Flood mapping using cloud mask Sentinel-2 and MNDWI [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelgadoblasco/GOST_SAR/blob/master/Flood%20Analysis%20and%20Mapping/FloodMapping_MNDWI_S2_cloudmask_COLAB.ipynb)
+- Flood mapping using Sentinel-1 Normalized Difference Flood Index (NDFI) and Normalised Difference Flood over short Vegetation Index (NDFVI) ([Cian,F. et al. 2018](https://doi.org/10.1016/j.rse.2018.03.006))
+- Flood mapping using Sentinel-1 and the NDFI ([Cian,F. et al. 2018](https://doi.org/10.1016/j.rse.2018.03.006))
+- Flood mapping using Sentinel-1 and Sentinel-2 data fusion from previous approaches
+- Flood mapping using land cover classification using Support Vector Machines and Sentinel-2 data
+- Cumulative flood mapping using Sentinel-1 and NDFI
 
 
 
