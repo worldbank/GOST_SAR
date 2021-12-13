@@ -4,7 +4,12 @@
 
 ***
 
-The scope of this repository is to provide resources and examples to help you leverage SAR data for flood analysis and mapping using Google Earth Engine. The penetration of the microwave radar through the clouds makes radar satellite data an ideal choice for space flood mapping during rainy periods. Unfortunately, there is no "one fit all" solution for flood mapping using radar data. There are different indexes that can be utilized, suitable for certain topography or lengths of flood event. 
+The scope of this repository is to provide resources and examples to help you leverage SAR data for flood analysis and mapping using Google Earth Engine. The penetration of the microwave radar through the clouds makes radar satellite data an ideal choice for space flood mapping during rainy periods. 
+
+<p><center> <img src="../images/Cumulative_Flood_S1_NDFI.png" width="1000"/> </p></center>
+
+
+Unfortunately, there is no "one fit all" solution for flood mapping using radar data. There are different indexes that can be utilized, suitable for certain topography or lengths of flood event. 
 
 The Global Operational Support Team (GOST) of World Bank has been researching and testing different solutions on various use cases and developed a Decision Matrix (see PPT) with the hope that it will help you gest quick and accurate results for your analysis.
 
