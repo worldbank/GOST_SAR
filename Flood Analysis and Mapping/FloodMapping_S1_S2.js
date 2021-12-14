@@ -502,7 +502,8 @@ var number5 = ui.Label('Please wait...',numberVIS);
 urban_area_ha.evaluate(function(val){number5.setValue(val+' hectares')}),numberVIS;
 
 // Disclaimer
-var text6 = ui.Label('Disclaimer: This product has been derived automatically without validation data. All geographic information has limitations due to the scale, resolution, date and interpretation of the original source materials. No liability concerning the content or the use thereof is assumed by the producer.',subTextVis)
+var text6 = ui.Label('Disclaimer: This product has been derived automatically without validation data. All geographic information has limitations due to the scale, resolution, date and interpretation of the original source materials. No liability concerning the content or the use thereof is assumed by the producer.This script was developed as part of the South Sudan Flood Damage and Needs Assessment with funding from the GFDRR JIT Recovery and PDNA Facility
+',subTextVis)
 
 // Produced by...
 var text7 = ui.Label('Damage assessment code from: UN-SPIDER December 2019', subTextVis)

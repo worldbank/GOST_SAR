@@ -8,10 +8,9 @@ Let us know if you have tried any of the solutions presented, we'd love to hear 
 ## Resources
 
 1. Flood mapping
- - decision matrix for flood mapping
- - GEE script using solely S1 radar data
- - GEE script using solely S2 optical data
- - GEE script using S1 and S2 data
+ - guidance for choosing the appropriate methodology to map flood extent
+ - GEE scripts for flood mapping and damage assessment using S1 radar data and S2 optical data
+ - COLAB script for cloud masking and flood mapping using S2 optical data
  
 2. Coherence change detection
  - COLAB scripts using S1 data
@@ -24,7 +23,7 @@ Let us know if you have tried any of the solutions presented, we'd love to hear 
 
 ## Get started
 
-- [Satellite Imagery Guide] (Katie's guide book -to include)
+- [Satellite Imagery Guide] (-to include)
    >
 
 - [Google Earth Engine](https://earthengine.google.com)
