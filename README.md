@@ -19,10 +19,10 @@ The ilustration below shows an example of SAR (gray) and an optical (true color 
 2. [Coherence change detection](https://github.com/mdelgadoblasco/GOST_SAR/tree/master/Coherence%20Change%20Detection)
  - COLAB scripts using S1 data
 
-3. Oil spill detection
+3. [Oil spill detection](https://github.com/mdelgadoblasco/GOST_SAR/tree/master/Oil%20Spill)
  - GEE script
  
-4. Volcano eruption
+4. [Volcano eruption](https://github.com/mdelgadoblasco/GOST_SAR/tree/master/Volcano%20eruption)
  - GEE script
  - COLAB script 
  
