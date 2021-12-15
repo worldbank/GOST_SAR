@@ -13,7 +13,7 @@ Unfortunately, there is no "one fit all" solution for flood mapping using radar 
 
 The Global Operational Support Team (GOST) of World Bank has been researching and testing different solutions on various use cases and developed a Decision Matrix (see PPT) with the hope that it will help you gest quick and accurate results for your analysis.
 
-<p><center> <img src="../images/Flood_decision_matrix.png" width="1000"/> </p></center>
+<p><center> <img src="../images/Flood_decision_matrix.png" width="600"/> </p></center>
 
 
 The scripts available here were developed in Google Earth Engine and contain a series of common elements, such as:
@@ -21,7 +21,7 @@ The scripts available here were developed in Google Earth Engine and contain a s
 <p><center> <img src="../images/user_input_small.png" width="1000"/> </p></center>
 
 - **damage assessment analysis** included in each script, which intersects the flood extent with WorldPop 2020 and with Copernicus Global Land Services (2019) to determine the number of people affected, the total ha of urban areas and cropland affected.
-<p><center> <img src="../images/damage_assessment.png" width="1000"/> </p></center>
+<p><center> <img src="../images/damage_assessment.png" width="200"/> </p></center>
 The damage assessment analysis was inspired by the UN-SPIDER GEE script available [here](https://code.earthengine.google.com/f5c2f984c053c8ea574bfcd4040d084e)
 ## Requirements
 - Google account
