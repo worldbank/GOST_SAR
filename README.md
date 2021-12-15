@@ -16,7 +16,7 @@ The ilustration below shows an example of SAR (gray) and an optical (true color 
  - GEE scripts for flood mapping and damage assessment using S1 radar data and S2 optical data
  - COLAB script for cloud masking and flood mapping using S2 optical data
  
-2. Coherence change detection
+2. [Coherence change detection](https://github.com/mdelgadoblasco/GOST_SAR/tree/master/Coherence%20Change%20Detection)
  - COLAB scripts using S1 data
 
 3. Oil spill detection
