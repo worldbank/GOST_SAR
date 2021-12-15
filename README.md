@@ -11,7 +11,7 @@ The ilustration below shows an example of SAR (gray) and an optical (true color 
 
 ## Resources
 
-1. Flood mapping
+1. [Flood analysis and mapping](https://github.com/mdelgadoblasco/GOST_SAR/tree/master/Flood%20Analysis%20and%20Mapping)
  - guidance for choosing the appropriate methodology to map flood extent
  - GEE scripts for flood mapping and damage assessment using S1 radar data and S2 optical data
  - COLAB script for cloud masking and flood mapping using S2 optical data
