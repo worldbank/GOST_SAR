@@ -24,7 +24,7 @@ The GEE code available for this application, as it is based on anomaly detection
 
 ## Learning material 
 Here a non-exhaustive list of peer review publications covering the Anomaly Detection using Copernicus Sentinel-1 data: 
- - []()
+ - [Detection of soil moisture anomalies based on Sentinel-1](https://ui.adsabs.harvard.edu/link_gateway/2019PCE...112...75G/doi:10.1016/j.pce.2018.11.009)
 ## Get started
 - [Google Earth Engine](https://colab.research.google.com/notebooks/intro.ipynb)
 
