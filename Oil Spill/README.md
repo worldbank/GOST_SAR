@@ -31,6 +31,4 @@ Here a non-exhaustive list of peer review publications covering the Coherence Ch
 
 ## Get started
 - [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
-
-Let us know if you have tried any of the solutions presented, we'd love to hear about your use cases!
  
