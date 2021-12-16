@@ -14,7 +14,7 @@ The usage of Synthetic Aperture Radar (SAR) data for Anomaly Detection provides 
 
 The GEE code available for this application, as it is based on anomaly detection can be employed also for analysing other type of phenomena, such as floods or oil spills, as far as these can be considered an anomaly. The code has an initial section indicating the user inputs that are needed, and the suggested parameters had been selected to be appropriate with this kind of phenomenom. 
 
-## Study cases - idenfitication of damage on urban infrastructure using Interferometric coherence
+## Study cases - idenfitication of damage caused by the lava flow using anomaly detection time series of Sentinel-1 data
 
 1. Nyiaragongo eruption, DR Congo, May 2021 [GEE code](https://github.com/mdelgadoblasco/GOST_SAR/blob/master/Volcano%20Eruption/code/Volcano%20Erruption.js)
 
