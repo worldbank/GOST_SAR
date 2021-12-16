@@ -4,7 +4,7 @@
 An ilustrative example of this application is the lava flow detection after the eruption of the Mount Nyiragongo ocurred on 22 May 2021. Using our scripts, it is possible to perform a quick damage assessment. In red colour the area detected as lava using Copernicus Sentinel-1 data, using our anomaly detection algorith which takes the advantage of analysing large time series of data.
 More information about the lava flow mapping of UNITAR is available [here](https://unitar.org/maps/map/3300)
 
-<p><center> <img src="../images/volcano_lava_detection.jpg" width="700"/> </p></center>
+<p><center> <img src="../images/volcano_lava_detection.jpg" width="1000"/> </p></center>
 
 This image above puts together the UNITAR map and the results obtained using our approach, showing a strong agreement between both. 
 
@@ -16,7 +16,7 @@ The GEE code available for this application, as it is based on anomaly detection
 
 ## Study cases - idenfitication of damage on urban infrastructure using Interferometric coherence
 
-1. Nyiaragongo eruption, DR Congo, May 2021
+1. Nyiaragongo eruption, DR Congo, May 2021 [GEE code](https://github.com/mdelgadoblasco/GOST_SAR/blob/master/Volcano%20Eruption/code/Volcano%20Erruption.js)
 
 ## Requirements
 - Google account
