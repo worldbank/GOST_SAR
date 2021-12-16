@@ -22,7 +22,7 @@ The ilustration below shows an example of SAR (gray) and an optical (true color 
 3. [Oil spill detection](https://github.com/mdelgadoblasco/GOST_SAR/tree/master/Oil%20Spill)
  - GEE script
  
-4. [Volcano eruption](https://github.com/mdelgadoblasco/GOST_SAR/tree/master/Volcano%20eruption)
+4. [Volcano eruption](https://github.com/mdelgadoblasco/GOST_SAR/tree/master/Volcano%20Eruption)
  - GEE script
  - COLAB script 
  
