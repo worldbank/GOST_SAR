@@ -1,7 +1,10 @@
 <p><center> <img src="../images/GOST_Logo_2021.png" width="700"/> </p></center>
 
 # Lava flow detection using time series anomaly detection on Google Earth Engine
-An ilustrative example of this application is the lava flow detection after the eruption of the Mount Nyiragongo ocurred on 22 May 2021. Using our scripts, it is possible to perform a quick damage assessment. In red colour the area detected as lava using Copernicus Sentinel-1 data, using our anomaly detection algorith which takes the advantage of analysing large time series of data.
+
+In Goma, DRC, the eruption of Mount Nyiragongo volcano on 22 May 2021 killed 30 people and destroyed more than 3500 homes together with important infrastructure.
+
+Lava flow detection is possible using the presented script, including a quick damage assessment. In red colour the area detected as lava using Copernicus Sentinel-1 data, using our anomaly detection algorith which takes the advantage of analysing large time series of data.
 
 More information about the lava flow mapping of UNITAR is available [here](https://unitar.org/maps/map/3300)
 
@@ -17,7 +20,7 @@ The GEE code available for this application, as it is based on anomaly detection
 
 ## Study cases - idenfitication of damage caused by the lava flow using anomaly detection time series of Sentinel-1 data
 
-1. Nyiaragongo eruption, DR Congo, May 2021 [GEE code](https://github.com/mdelgadoblasco/GOST_SAR/blob/master/Volcano%20Eruption/code/Volcano%20Erruption.js)
+1. Nyiaragongo eruption, DR Congo, May 2021 [GEE code](https://code.earthengine.google.com/e3554de503baa7f59883010030f09faf)
 
 ## Requirements
 - Google account
