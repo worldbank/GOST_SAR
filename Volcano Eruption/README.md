@@ -2,6 +2,7 @@
 
 # Lava flow detection using time series anomaly detection on Google Earth Engine
 An ilustrative example of this application is the lava flow detection after the eruption of the Mount Nyiragongo ocurred on 22 May 2021. Using our scripts, it is possible to perform a quick damage assessment. In red colour the area detected as lava using Copernicus Sentinel-1 data, using our anomaly detection algorith which takes the advantage of analysing large time series of data.
+
 More information about the lava flow mapping of UNITAR is available [here](https://unitar.org/maps/map/3300)
 
 <p><center> <img src="../images/volcano_lava_detection.jpg" width="1000"/> </p></center>
