@@ -1,6 +1,8 @@
 <p><center> <img src="../images/GOST_Logo_2021.png" width="700"/> </p></center>
 
 # Coherence Change Detection using Google Colab
+The interferometric coherence allows to measure the degree of similarity between 2 SAR images acquired using the same geometry in different times. Hence, the coherence map that generates can be used to analyse changes occurred on the mapped area during the observation period. The Coherence Change Detection uses 2 coherence maps computed using 3 SAR images to analysed the changes between them. The SAR images should be acquired: 2 prior crisis event and 1 posterior to the event. Strong changes observed in short time period are typically related to changes on crop fields and other phenomena, such as natural disasters, but also disasters that could occurred due to anthropogenic causes (i.e. explosions, etc).
+
 An ilustrative example of this application is the analysis of the Beirut area affected by the blast occured in its harbor area last 4th August 2019. In red colour the area affected by a significant drop of the coherence values before and after the explosion event.
 <p><center> <img src="../images/example_CCD.png" width="1000"/> </p></center>
 
