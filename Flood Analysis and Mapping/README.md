@@ -21,8 +21,9 @@ The scripts available here were developed in Google Earth Engine and contain a s
 <p><center> <img src="../images/user_input_small.png" width="1000"/> </p></center>
 
 - **damage assessment analysis** included in each script, which intersects the flood extent with WorldPop 2020 and with Copernicus Global Land Services (2019) to determine the number of people affected, the total ha of urban areas and cropland affected.
-<p><center> <img src="../images/damage_assessment.png" width="1000"/> </p></center>
-The damage assessment analysis was inspired by the UN-SPIDER GEE script available [here](https://code.earthengine.google.com/f5c2f984c053c8ea574bfcd4040d084e)
+<p><center> <img src="../images/damage_assessment.png" width="400"/> </p></center>
+The damage assessment analysis was inspired by the UN-SPIDER GEE script that is available [here](https://code.earthengine.google.com/f5c2f984c053c8ea574bfcd4040d084e)
+
 ## Requirements
 - Google account
 - Basic knowledge in SAR and Multi-Spectral data processing and applications
@@ -33,7 +34,7 @@ Here a non-exhaustive list of peer review publications covering the surface wate
  - [Modification of normalised difference water index (NDWI) to enhance open water features in remotely sensed imagery](https://doi.org/10.1080/01431160600589179)
 
 ## Get started
-- [Google Earth Engine](https://developers.google.com/earth-engine/tutorials/tutorials
+- [Google Earth Engine](https://developers.google.com/earth-engine/tutorials/tutorials)
 - [GOST Flood mapping scripts](https://code.earthengine.google.com/?accept_repo=users/GOST_WBG/Flood_Mapping)
 
 ## GOST Flood scripts
