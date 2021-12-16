@@ -22,7 +22,7 @@ The developed GEE code indicates where the user input is needed.
 GOST has tested the Anomaly Detection script for detecting Oil Spills, using 3 known events:
 1. Kuwait oil spill (10.08.2017). [info](https://i0.wp.com/skytruth.org/wp-content/uploads/2017/08/Kuwait_2017-08-10_a.png?w=3000&ssl=1)
 <p><center> <img src="../images/Kuwait_oilspill.jpg" width="1000"/> </p></center>
-2. Corsica oil spill (07.10.2018 - 10.10.2018) [info](https://i0.wp.com/skytruth.org/wp-content/uploads/2017/08/Kuwait_2017-08-10_a.png?w=3000&ssl=1)
+2. Corsica oil spill (07.10.2018 - 10.10.2018) [info](https://www.cmcc.it/article/corsica-oil-spill-in-october-2018-the-cmcc-delivered-5-pollution-forecast-bulletins)
 <p><center> <img src="../images/Corsica_oilspill.jpg" width="1000"/> </p></center>
 3. Red Sea oil spill (13.10.2019) [info](http://beyond-eocenter.eu/index.php/news-events/193-oil-spill-extent-mapping-in-the-red-sea)
 <p><center> <img src="../images/RedSea_oilspill_.jpg" width="1000"/> </p></center>
