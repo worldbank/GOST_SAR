@@ -24,6 +24,9 @@ The ilustration below shows an example of SAR (gray) and an optical (true color 
  
 4. [Volcano eruption](https://github.com/mdelgadoblasco/GOST_SAR/tree/master/Volcano%20Eruption)
  - GEE script
+
+5. [Mariupol Damage assessment]() during the war until 5th April 2022
+This damage assessment was done using Coherence Change Detection method. We have analysed possible changes and damaged buildings using Coherence Change Detection that exploits the Sentinel-1 amplitude and phase information leveraging some methods developed above. Additionally, using open layers, they were able to quantify affected buildings, roads and bridges. In this damage assessment, they are also providing information on the industrial and commercial damaged buildings. The resuls had been validated with damaged locations reported by the media (i.e. BBC news) and by crowdsource platforms.
  
 ## Get started
 
