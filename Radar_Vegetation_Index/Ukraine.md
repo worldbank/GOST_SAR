@@ -17,7 +17,7 @@ The cropland class has value equal to 40, which will be used within Google Earth
 ## The modified Radar Vegetation Index definition
 The employed formula has been defined by ([Agapiou, 2020](https://doi.org/10.3390/app10144764))
 
-![image](https://user-images.githubusercontent.com/20595425/174681795-4c8ec386-2f69-4912-a778-619a3cc17dd4.png = 250x250)
+![image](https://user-images.githubusercontent.com/20595425/174681795-4c8ec386-2f69-4912-a778-619a3cc17dd4.png)
 
 ## Result sample
 The developed script generates a composite of mRVI derived from Copernicus Sentinel-1 using both ascending and descending acquisitions for the period specified by the user.
