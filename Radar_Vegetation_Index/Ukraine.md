@@ -17,7 +17,7 @@ The cropland class has value equal to 40, which will be used within Google Earth
 ## The modified Radar Vegetation Index definition
 The employed formula has been defined by ([Agapiou, 2020](https://doi.org/10.3390/app10144764))
 
-![image](https://user-images.githubusercontent.com/20595425/174681795-4c8ec386-2f69-4912-a778-619a3cc17dd4.png)
+![image](https://user-images.githubusercontent.com/20595425/174681795-4c8ec386-2f69-4912-a778-619a3cc17dd4.png  | width=100)
 
 ## Result sample
 The developed script generates a composite of mRVI derived from Copernicus Sentinel-1 using both ascending and descending acquisitions for the period specified by the user.
@@ -25,8 +25,9 @@ Note that during the period mid-2016 to December 2021, the revisit time of the C
 
 The final composite is rescaled by a factor of 10000 to finally convert float values to unsigned integer 16 (Uint16) which produces lighter files.
 The developed code can be found in [here](https://code.earthengine.google.com/2b3eff8d77e245c0ba67c3dd127ec6e9)
+
 Full AOI mRVI sample is illustrated below
-![image](https://user-images.githubusercontent.com/20595425/174682588-0b01a1d7-7f69-494d-b7a5-fbb1faaceaf6.png)
+![image](https://user-images.githubusercontent.com/20595425/174683014-698c4b64-9041-4b1b-943d-58e5d479db2b.png)
 
 And finally, here below a zoom over a cropland area, where it is visible the patterns of mRVI values over different parcels
 ![image](https://user-images.githubusercontent.com/20595425/174682579-815ea2be-3ae0-402b-b794-a303990e1c17.png)
