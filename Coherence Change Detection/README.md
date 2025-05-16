@@ -17,8 +17,8 @@ The Jupyter Notebooks available for both study cases cover the installation of t
 
 ## Study cases - idenfitication of damage on urban infrastructure using Interferometric coherence
 
-1. Explosion in Bata, Equatorial Guinea (03.07.2021) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelgadoblasco/GOST_SAR/blob/master/Coherence%20Change%20Detection/code/WB_Bata_HandOn_session.ipynb)
-2. Explosion in Beirut, Lebanon (08.04.2020) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelgadoblasco/GOST_SAR/blob/master/Coherence%20Change%20Detection/code/WB_Beirut_HandsOn_session.ipynb)
+1. Explosion in Bata, Equatorial Guinea (03.07.2021) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/worldbank/GOST_SAR/blob/master/Coherence%20Change%20Detection/code/WB_Bata_HandOn_session.ipynb)
+2. Explosion in Beirut, Lebanon (08.04.2020) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/worldbank/GOST_SAR/blob/master/Coherence%20Change%20Detection/code/WB_Beirut_HandsOn_session.ipynb)
 
 ## Requirements
 - Google account
@@ -28,7 +28,7 @@ The Jupyter Notebooks available for both study cases cover the installation of t
 ## Learning material 
 Here a non-exhaustive list of peer review publications covering the Coherence Change detection: 
  - [Coherence Change-Detection with Sentinel-1 for Natural and Anthropogenic Disaster Monitoring in Urban Areas](https://www.mdpi.com/2072-4292/10/7/1026)
- - [Urban Change Detection Using Coherence and Intensity Characteristics ofMulti-temporal ERS-1/2 Imagery](http://earth.esa.int/workshops/fringe2005/proceedings/papers/350_liao.pdf)
+ - [Urban Change Detection Using Coherence and Intensity Characteristics of Multi-temporal ERS-1/2 Imagery](http://earth.esa.int/workshops/fringe2005/proceedings/papers/350_liao.pdf)
  - [Detection of landslide induced by large earthquake using InSAR coherence techniques – Northwest Zagros, Iran](https://www.sciencedirect.com/science/article/pii/S1110982318302886)
 
 ## Get started
