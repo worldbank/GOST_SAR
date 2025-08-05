@@ -41,7 +41,7 @@ Here a non-exhaustive list of peer review publications covering the surface wate
 Some of the scripts developed are used for:
 - Flood mapping using [Sentinel-1 time series anomaly detection](https://code.earthengine.google.com/8dc95ad91a98824088a8a89b2738dbcf)
 - Flood mapping using [Sentinel-2 and Modified Normalized Difference Water Index (MNDWI)](https://code.earthengine.google.com/fa9f20cea7d600377292a3afaead1979)
-- Flood mapping using [cloud mask Sentinel-2 and MNDWI] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelgadoblasco/GOST_SAR/blob/master/Flood%20Analysis%20and%20Mapping/code/FloodMapping_MNDWI_S2_cloudmask_COLAB.ipynb)
+- Flood mapping using [cloud mask Sentinel-2 and MNDWI] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/worldbank/GOST_SAR/blob/master/Flood%20Analysis%20and%20Mapping/code/FloodMapping_MNDWI_S2_cloudmask_COLAB.ipynb)
 - Flood mapping using [Sentinel-1 Normalized Difference Flood Index (NDFI) and Normalised Difference Flood over short Vegetation Index (NDFVI)](https://code.earthengine.google.com/1c4f0b1a01494088f665f818f86f8543) ([Cian,F. et al. 2018](https://doi.org/10.1016/j.rse.2018.03.006))
 - Flood mapping using [Sentinel-1 and the NDFI](https://code.earthengine.google.com/acff3d6a5cffe961156cd6919e01a5ab) ([Cian,F. et al. 2018](https://doi.org/10.1016/j.rse.2018.03.006))
 - Flood mapping using [Sentinel-1 and Sentinel-2 data fusion from previous approaches](https://code.earthengine.google.com/acc43b4c2e50a9a59207817f33f2904c)
