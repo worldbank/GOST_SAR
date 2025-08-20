@@ -63,7 +63,7 @@ Map.centerObject(aoi,6)
 
 /**************************** Compute Flood Mask using Sentinel 2 ************************/
 
-var s2 = ee.ImageCollection("COPERNICUS/S2_SR").filterDate(S2_flood_start, S2_flood_end).filterBounds(aoi);
+var s2 = ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED").filterDate(S2_flood_start, S2_flood_end).filterBounds(aoi);
 
 ///// Apply function for removing clouds from the optical image
 // Bits 10 and 11 are clouds and cirrus, respectively.
@@ -95,7 +95,7 @@ var flood=(mndwi.gt(MNDWI_thr)).clip(aoi)
       var difference_binary = flood
       // Include JRC layer on surface water seasonality to mask flood pixels from areas
       // of "permanent" water (where there is water > 10 months of the year)
-      var swater = ee.Image('JRC/GSW1_0/GlobalSurfaceWater').select('seasonality');
+      var swater = ee.Image('JRC/GSW1_4/GlobalSurfaceWater').select('seasonality');
       var swater_mask = swater.gte(10).updateMask(swater.gte(10));
       
       //Flooded layer where perennial water bodies (water > 10 mo/yr) is assigned a 0 value
