@@ -1,5 +1,5 @@
 /*===========================================================================================
-       SAR-FLOOD MAPPING USING THE SAR NDFI and Optical MNDWI APPROACH
+       FLOOD MAPPING USING THE Optical MNDWI APPROACH
   ===========================================================================================
   
   This script creates a flood map using Sentinel-2 satellite images.
