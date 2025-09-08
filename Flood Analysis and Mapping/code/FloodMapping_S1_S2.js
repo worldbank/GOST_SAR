@@ -90,7 +90,7 @@ Map.centerObject(aoi,6)
 
 /**************************** Compute Flood Mask using Sentinel 2 ************************/
 
-var s2 = ee.ImageCollection("COPERNICUS/S2_SR").filterDate(S1S2_flood_start, S1S2_flood_end).filterBounds(aoi);
+var s2 = ee.ImageCollection("COPERNICUS/S2_SR_HARMONIZED").filterDate(S1S2_flood_start, S1S2_flood_end).filterBounds(aoi);
 
 ///// Apply function for removing clouds from the optical image
 // Bits 10 and 11 are clouds and cirrus, respectively.
@@ -122,7 +122,7 @@ var flood=(mndwi.gt(MNDWI_thr)).clip(aoi)
       var difference_binary = flood
       // Include JRC layer on surface water seasonality to mask flood pixels from areas
       // of "permanent" water (where there is water > 10 months of the year)
-      var swater = ee.Image('JRC/GSW1_0/GlobalSurfaceWater').select('seasonality');
+      var swater = ee.Image('JRC/GSW1_4/GlobalSurfaceWater').select('seasonality');
       var swater_mask = swater.gte(10).updateMask(swater.gte(10));
       
       //Flooded layer where perennial water bodies (water > 10 mo/yr) is assigned a 0 value
@@ -187,7 +187,7 @@ var FloodExtent = NDFI_D.gt(NDFI_thr).clip(aoi);
       var difference_binary = FloodExtent
       // Include JRC layer on surface water seasonality to mask flood pixels from areas
       // of "permanent" water (where there is water > 10 months of the year)
-      var swater = ee.Image('JRC/GSW1_0/GlobalSurfaceWater').select('seasonality');
+      var swater = ee.Image('JRC/GSW1_4/GlobalSurfaceWater').select('seasonality');
       var swater_mask = swater.gte(10).updateMask(swater.gte(10));
       
       //Flooded layer where perennial water bodies (water > 10 mo/yr) is assigned a 0 value
@@ -502,8 +502,7 @@ var number5 = ui.Label('Please wait...',numberVIS);
 urban_area_ha.evaluate(function(val){number5.setValue(val+' hectares')}),numberVIS;
 
 // Disclaimer
-var text6 = ui.Label('Disclaimer: This product has been derived automatically without validation data. All geographic information has limitations due to the scale, resolution, date and interpretation of the original source materials. No liability concerning the content or the use thereof is assumed by the producer.This script was developed as part of the South Sudan Flood Damage and Needs Assessment with funding from the GFDRR JIT Recovery and PDNA Facility
-',subTextVis)
+var text6 = ui.Label('Disclaimer: This product has been derived automatically without validation data. All geographic information has limitations due to the scale, resolution, date and interpretation of the original source materials. No liability concerning the content or the use thereof is assumed by the producer.',subTextVis)
 
 // Produced by...
 var text7 = ui.Label('Damage assessment code from: UN-SPIDER December 2019', subTextVis)

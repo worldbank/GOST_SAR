@@ -28,7 +28,7 @@ The Jupyter Notebooks available for both study cases cover the installation of t
 ## Learning material 
 Here a non-exhaustive list of peer review publications covering the Coherence Change detection: 
  - [Coherence Change-Detection with Sentinel-1 for Natural and Anthropogenic Disaster Monitoring in Urban Areas](https://www.mdpi.com/2072-4292/10/7/1026)
- - [Urban Change Detection Using Coherence and Intensity Characteristics ofMulti-temporal ERS-1/2 Imagery](http://earth.esa.int/workshops/fringe2005/proceedings/papers/350_liao.pdf)
+ - [Urban Change Detection Using Coherence and Intensity Characteristics of Multi-temporal ERS-1/2 Imagery](http://earth.esa.int/workshops/fringe2005/proceedings/papers/350_liao.pdf)
  - [Detection of landslide induced by large earthquake using InSAR coherence techniques – Northwest Zagros, Iran](https://www.sciencedirect.com/science/article/pii/S1110982318302886)
 
 ## Get started
