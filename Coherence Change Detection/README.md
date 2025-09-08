@@ -33,5 +33,5 @@ Here a non-exhaustive list of peer review publications covering the Coherence Ch
 
 ## Get started
 - [Google Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb)
-- GOST Generic Coherence Change Detection code [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelgadoblasco/GOST_SAR/blob/master/Coherence%20Change%20Detection/code/WB_CoherenceChangeDetection_generic.ipynb)
+- GOST Generic Coherence Change Detection code [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/worldbank/GOST_SAR/blob/master/Coherence%20Change%20Detection/code/WB_CoherenceChangeDetection_generic.ipynb)
 
