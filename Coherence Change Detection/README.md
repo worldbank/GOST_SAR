@@ -17,8 +17,8 @@ The Jupyter Notebooks available for both study cases cover the installation of t
 
 ## Study cases - idenfitication of damage on urban infrastructure using Interferometric coherence
 
-1. Explosion in Bata, Equatorial Guinea (03.07.2021) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelgadoblasco/GOST_SAR/blob/master/Coherence%20Change%20Detection/code/WB_Bata_HandOn_session.ipynb)
-2. Explosion in Beirut, Lebanon (08.04.2020) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdelgadoblasco/GOST_SAR/blob/master/Coherence%20Change%20Detection/code/WB_Beirut_HandsOn_session.ipynb)
+1. Explosion in Bata, Equatorial Guinea (03.07.2021) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/worldbank/GOST_SAR/blob/master/Coherence%20Change%20Detection/code/WB_Bata_HandOn_session.ipynb)
+2. Explosion in Beirut, Lebanon (08.04.2020) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/worldbank/GOST_SAR/blob/master/Coherence%20Change%20Detection/code/WB_Beirut_HandsOn_session.ipynb)
 
 ## Requirements
 - Google account
