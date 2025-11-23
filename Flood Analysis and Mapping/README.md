@@ -22,8 +22,7 @@ The scripts available here were developed in Google Earth Engine and contain a s
 
 - **damage assessment analysis** included in each script, which intersects the flood extent with WorldPop 2020 and with Copernicus Global Land Services (2019) to determine the number of people affected, the total ha of urban areas and cropland affected.
 <p><center> <img src="../images/damage_assessment.png" width="400"/> </p></center>
-The damage assessment analysis was inspired by the UN-SPIDER GEE script that is available [here](https://code.earthengine.google.com/f5c2f984c053c8ea574bfcd4040d084e)
-
+The damage assessment analysis was inspired by the UN-SPIDER GEE script that is available [here](https://code.earthengine.google.com/c46e165f7bfa3e909b06a683a72a96d7)
 ## Requirements
 - Google account
 - Basic knowledge in SAR and Multi-Spectral data processing and applications
