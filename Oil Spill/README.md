@@ -27,7 +27,7 @@ GOST has tested the Anomaly Detection script for detecting Oil Spills, using 3 k
 3. Red Sea oil spill (13.10.2019). [[Info](http://beyond-eocenter.eu/index.php/news-events/193-oil-spill-extent-mapping-in-the-red-sea)]
 <p><center> <img src="../images/RedSea_oilspill_.jpg" width="1000"/> </p></center>
 
-All use cases can be analysed using one sigle code. [GOST code](https://code.earthengine.google.com/7a4ae146c600fda75b31b440b9dd353b)
+All use cases can be analysed using one sigle code. [GOST code](https://code.earthengine.google.com/eec2100aa30cfba6d55d056b0c7f76e2)
 
 ## Requirements
 - Google account

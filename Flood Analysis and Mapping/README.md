@@ -22,8 +22,8 @@ The scripts available here were developed in Google Earth Engine and contain a s
 
 - **damage assessment analysis** included in each script, which intersects the flood extent with WorldPop 2020 and with Copernicus Global Land Services (2019) to determine the number of people affected, the total ha of urban areas and cropland affected.
 <p><center> <img src="../images/damage_assessment.png" width="400"/> </p></center>
-The damage assessment analysis was inspired by the UN-SPIDER GEE script that is available [here](https://code.earthengine.google.com/f5c2f984c053c8ea574bfcd4040d084e)
-
+The damage assessment analysis was inspired by the UN-SPIDER GEE script that is available [ here ] (https://code.earthengine.google.com/c46e165f7bfa3e909b06a683a72a96d7)
+ 
 ## Requirements
 - Google account
 - Basic knowledge in SAR and Multi-Spectral data processing and applications
@@ -45,7 +45,7 @@ Some of the scripts developed are used for:
 - Flood mapping using [Sentinel-1 Normalized Difference Flood Index (NDFI) and Normalised Difference Flood over short Vegetation Index (NDFVI)](https://code.earthengine.google.com/1c4f0b1a01494088f665f818f86f8543) ([Cian,F. et al. 2018](https://doi.org/10.1016/j.rse.2018.03.006))
 - Flood mapping using [Sentinel-1 and the NDFI](https://code.earthengine.google.com/acff3d6a5cffe961156cd6919e01a5ab) ([Cian,F. et al. 2018](https://doi.org/10.1016/j.rse.2018.03.006))
 - Flood mapping using [Sentinel-1 and Sentinel-2 data fusion from previous approaches](https://code.earthengine.google.com/8a3e4d31603a973b0886299bbbb55207)
-- Flood mapping using [land cover classification using Support Vector Machines and Sentinel-2 data](https://code.earthengine.google.com/83bb7f66fde2469b0bbd3b66db876b78)
+- Flood mapping using [land cover classification using Support Vector Machines and Sentinel-2 data](https://code.earthengine.google.com/9a1860aa0832b8e0c5abcd9e95b54b80)
 - [Cumulative flood mapping using Sentinel-1 and NDFI](https://code.earthengine.google.com/59ef104855abfaedf2b157ac7183beaf)
 
 
