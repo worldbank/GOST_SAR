@@ -17,7 +17,7 @@ The resources available for that purpose are two scripts:
  2) the Google Earth Engine script, needed for the change detection and damage assessment analysis. 
 
 Both scripts are listed below: 
-- COLAB script: generation of individual coherence maps available [here](https://colab.research.google.com/drive/194RPigw-CW8CWDDdLRfcS6CsL_7_O3Dq?authuser=1)
+- COLAB script: generation of individual coherence maps available [here](https://colab.research.google.com/drive/1zbWtbgdJcVTHDWfKTj73pUqgyy9N_fNJ?usp=sharing)
 - GEE: analysis of time series coherence variation and coherence change detection computation and damage building assessment. Script available [here](https://code.earthengine.google.com/726c7579bc7e7950f5403b1bc7d6f40b)
 
 The existing solution provided by GOST contains a script to be used within Google Earth Engine that allows users to identify changes that occurred in the built environment using the anomaly detection approach mentioned above, by utilizing the time series coherence products included as a sharable Image Collection.
